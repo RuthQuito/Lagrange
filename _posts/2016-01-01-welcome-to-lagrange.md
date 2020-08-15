@@ -43,11 +43,9 @@ Monitorizar y analizar eventos (ej. AntiVirus).
 Software para servir a otros programas (ej. Compiladores)
 
 Para poder hacer un software es importante tener en cuenta algunos conceptos importantes que involucran en su creación: personas, producto, proyecto y proceso
-1.	Personas; los que trabajan
-2.	Producto; es lo que se obtiene al final
-3.	Proyecto; la pauta a seguir para desarrollar un producto
-4.	Proceso; la pauta a seguir para desarrollar un proyecto
-
-
+1. Personas; los que trabajan
+2. Producto; es lo que se obtiene  al final
+3. Proyecto; las pautas a seguir para desarrollar un producto 
+4. Proceso; las pautas a seguir para desarrollar un proyecto
 Para que un software sea de calidad debe proveer los siguientes atributos la funcionalidad y el desempeño requerido por el usuario y debe ser mantenible, confiable y aceptable
 
