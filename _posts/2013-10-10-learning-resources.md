@@ -1,22 +1,44 @@
 ---
-layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+title: "Modelos de desarrollo"
+author: "Ruth"
 image: spools.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+**Modelo de cascada**
+Éste toma las actividades fundamentales del proceso: especificación, desarrollo, validación y evolución, y las representa como fases separadas.
+El modelo cascada consta de las siguientes fases:
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+- Definición de requisitos
+- Diseño de sistema y software
+- Implementación y Pruebas unitarias
+- Integración y Pruebas de sistema
+- Operación y Mantenimiento
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+**Modelo de prototipos**
+Modelo experimental de un sistema o de un componente de un sistema que tiene los suficientes elementos que permite sus usos.
+Mediante este modelo se puede verificar la visibilidad del diseño de un sistema. Tiene un enfoque de desarrollo desechable, evolutivo y mixto.
 
-## [Codecademy](https://www.codecademy.com/)
+**Modelo incremental**
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+Es un modelo derivado del ciclo de vida en cascada. Este modelo busca reducir el riesgo que surge entre las necesidades del usuario y el producto final por malos entendidos durante la etapa de recogida de requisitos.
+Consiste en la iteración de varios ciclos de vida en cascada. Al final de cada iteración se le entrega al cliente una nueva versión mejorada o con mayores funcionalidades del producto.
 
-## [Khan Academy](https://www.khanacademy.org/)
+**Modelo iterativo** 
+Entrega un sistema completo desde el principio, para posteriormente cambiar la funcionalidad de cada subsistema con cada versión. 
+Se basa en la evolución de prototipos ejecutables, mensurables y evaluables. Se van incorporando cambios en cada iteración. Cada iteración produce el ciclo de vida en cascada, pero a una escala menor.
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+**Modelo en espiral**
+Es un modelo de proceso de software evolutivo, que proporciona el potencial para el desarrollo rápido de versiones incrementales del software. el avance se realiza desde el centro de la espiral hacia el exterior. Reúne características del modelo clásico y de prototipos.
+
+**Modelo el Proceso Unificado**
+Es un modelo conducido por casos de uso, para asegurar que toda la funcionalidad se realiza y se prueba. Centrado en la arquitectura, ésta se describe mediante diferentes vistas del sistema.
+Es Iterativo e incremental, mini proyectos, cada uno de los cuales es una iteración que resulta en un incremento.
+El Proceso Unificado se repite a lo largo de una serie de ciclos, cuyas fases por cada uno es:
+- Inicio 
+- Elaboración
+- Construcción 
+- Transición 
+
+**Modelo basado en componentes** 
+Un componente es una unidad ejecutable e independiente. Para el desarrollo con utilización debe ser posible encontrar los componentes reutilizables apropiados. 
+Los componentes deben tener documentación asociada para ayudar a comprenderlos y adaptarlos a una nueva aplicación.
