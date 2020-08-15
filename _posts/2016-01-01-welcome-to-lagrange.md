@@ -2,7 +2,7 @@
 title: "Ingeniería de Software"
 author: "Ruth"
 ---
-##¿Qué es la ingeniería de Software?
+## ¿Qué es la ingeniería de Software?
 
 La ingeniería de Software es una disciplina que concierne a todos los aspectos de la producción de Software. Este incorpora el análisis precedente de la situación, el bosquejo del proyecto, el desarrollo del software, comprobar el su funcionamiento y poner en funcionamiento el sistema.
 La ingeniería de software es una tecnología de multicapa. Tiene el objetivo de lograr productos de calidad, mediante un proceso apoyado por métodos y herramientas.
@@ -20,7 +20,7 @@ Por otra parte, es necesario saber lo que significa Software.
 Son programas de cómputo con su respectiva documentación asociada: requerimientos, modelos de diseño y manuales de usuarios.
 El software puede ser genérico o ad hoc.
 
-\•	Software Genérico: desarrollado para venderse a múltiples clientes. Por ejemplo: Excel, Word, etc.)
+\•	Software Genérico: desarrollado para venderse a múltiples clientes. Por ejemplo: Excel, Word, etc.
 
 \•	Software AD hoc: desarrollado bajo demanda del cliente a un desarrollador específico.
 
@@ -45,11 +45,8 @@ Software para servir a otros programas (ej. Compiladores)
 Para poder hacer un software es importante tener en cuenta algunos conceptos importantes que involucran en su creación: personas, producto, proyecto y proceso.
 
 \-	Personas; los que trabajan
-
 \-	Producto; es lo que se obtiene al final
-
 \-	Proyecto; la pauta a seguir para desarrollar un producto
-
 \-	Proceso; la pauta a seguir para desarrollar un proyecto
 
 Para que un software sea de calidad debe proveer los siguientes atributos la funcionalidad y el desempeño requerido por el usuario y debe ser mantenible, confiable y aceptable
