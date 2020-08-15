@@ -1,5 +1,6 @@
 ---
 title: "Ingeniería de Software"
+date: "2020-08-14"
 author: "Ruth"
 ---
 ## ¿Qué es la ingeniería de Software?
@@ -47,5 +48,3 @@ Para poder hacer un software es importante tener en cuenta algunos conceptos imp
 2. Producto; es lo que se obtiene  al final
 3. Proyecto; las pautas a seguir para desarrollar un producto 
 4. Proceso; las pautas a seguir para desarrollar un proyect
-### Contenido de ejemplo
-[Texto y formato] ({{site.github.url}} {% post_url 2014-01-01-text-formatting-examples%})
