@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+date: "2020-08-15"
+title: "Acerca de mi"
+author: "Ruth Quito"
+email: ruthmariaquito@hotmail.com
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hola mi nombre es Ruth Maria Quito Yambay soy estudiante de la Universidad de Guayaquil del segundo semestre de la carrera de Ingeniería de Software. En este sitio web les comparto un poco de materia, con la intención de que adquieran conocimiento respecto a lo que trata *La Ingeniería de Sofware*. Como lo podrán apreciar a continuación, espero que les sirva de mucha ayudad. 
