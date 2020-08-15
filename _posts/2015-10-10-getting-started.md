@@ -1,5 +1,4 @@
 ---
-layout: post
 date:"2020-08-24"
 title: "Desarrollo de Software"
 author: "Ruth"
@@ -14,14 +13,12 @@ Entonces **¿Qué es un proceso de software?**
 Un proceso de Software es un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un Software.
 Algunas actividades genéricas en todos los procesos de software son:
 
-
 *	**Especificación;** que debe hacer el software y cuáles son sus especificaciones de desarrollo.
 *	**Desarrollo;** producción del sistema de software.
 * **Validación;** verificar que el software cumple con lo solicitado por el cliente.
 
 Estas actividades pueden variar dependiendo de la organización y del tipo de sistema a desarrollarse.
 Entonces se denomina Ciclo de vida a las etapas por las que atraviese un producto software a lo largo de su existencia. Existe varios paradigmas o modelos diferentes para su desarrollo, a continuación, se menciona las más conocidas;
-
 
 *	Paradigma clásico o en **cascada**
 *	Paradigma clásico con **prototipado** 
