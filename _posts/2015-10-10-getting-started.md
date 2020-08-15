@@ -34,4 +34,5 @@ A pesar de la gran variedad de modelos que existe y las ventajas e inconveniente
 - Diseño
 - Implementación 
 - Pruebas 
+
 Para desarrollar un software debe cumplir la siguiente fase
