@@ -8,7 +8,6 @@ author: "Ruth"
 La ingeniería de Software es una disciplina que concierne a todos los aspectos de la producción de Software. Este incorpora el análisis precedente de la situación, el bosquejo del proyecto, el desarrollo del software, comprobar el su funcionamiento y poner en funcionamiento el sistema.
 La ingeniería de software es una tecnología de multicapa. Tiene el objetivo de lograr productos de calidad, mediante un proceso apoyado por métodos y herramientas.
 
-
 4. La ingeniería de software debe descansar sobre un esfuerzo de organización de calidad
 3. El proceso define un marco de trabajo para un conjunto de áreas clave, las cuales forman la base de control de gestión de proyectos de software y establece el contexto en el cual se aplica métodos técnicos, se produce resultados de trabajo, se establecen hitos, se asegura la calidad y se gestiona el cambio adecuadamente. 
 2. Métodos; actividades técnicas que se deben realizar para conseguir las tareas de ingeniería. Indican cómo construir técnicamente el software. Incluyen técnicas de modelado. 
@@ -38,7 +37,7 @@ Orientado al cálculo (ej. Autocat)
 Basados en sistema artificial (ej. Siri)
 ### Sistemas de computación personal
 Para uso personal o negocio (ej. Bloc de notas).
-## Sistemas de tiempo Real
+### Sistemas de tiempo Real
 Monitorizar y analizar eventos (ej. AntiVirus).
 ### Software de sistema
 Software para servir a otros programas (ej. Compiladores)
@@ -53,4 +52,3 @@ Para que un software sea de calidad debe proveer los siguientes atributos la fun
 -	**Confiable;** el software no debe causar daños físicos o económicos en el caso de que falle.
 -	**Eficiente;** el software no debe desperdiciar los recursos del sistema.
 -	**Aceptable;** el software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas.
-> Para desarrollar un software debe cumplir la siguiente fase;
