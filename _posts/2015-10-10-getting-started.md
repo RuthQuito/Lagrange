@@ -1,8 +1,7 @@
 ---
-date:"2020-08-24"
-title: "Desarrollo de Software"
+title: "Proceso de desarrollo de software"
+date: "2020-08-14"
 author: "Ruth"
-image: forest.jpg
 ---
 
 # Proceso de desarrollo del software
