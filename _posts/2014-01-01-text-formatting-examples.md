@@ -1,5 +1,6 @@
 ---
-title: "Modelos de proceso de software"
+title: "Clasificación de modelos de proceso de software"
+date: "2020-08-15"
 author: "Ruth"
 image: cards.jpg
 ---
