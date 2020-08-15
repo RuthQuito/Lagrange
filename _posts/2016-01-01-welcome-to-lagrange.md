@@ -47,5 +47,6 @@ Para poder hacer un software es importante tener en cuenta algunos conceptos imp
 2. Producto; es lo que se obtiene  al final
 3. Proyecto; las pautas a seguir para desarrollar un producto 
 4. Proceso; las pautas a seguir para desarrollar un proyecto
+
 Para que un software sea de calidad debe proveer los siguientes atributos la funcionalidad y el desempeño requerido por el usuario y debe ser mantenible, confiable y aceptable
 
