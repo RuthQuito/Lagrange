@@ -1,7 +1,8 @@
 ---
 title: "Modelos de proceso de desarrollo del Software"
+date: "2020-08-14"
 author: "Ruth"
-image: spools.jpg
+image: 
 ---
 
 **Modelo de cascada**
