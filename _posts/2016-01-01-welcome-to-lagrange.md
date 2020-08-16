@@ -9,10 +9,10 @@ author: "Ruth"
 La ingeniería de Software es una disciplina que concierne a todos los aspectos de la producción de Software. Este incorpora el análisis precedente de la situación, el bosquejo del proyecto, el desarrollo del software, comprobar el su funcionamiento y poner en funcionamiento el sistema.
 La ingeniería de software es una tecnología de multicapa. Tiene el objetivo de lograr productos de calidad, mediante un proceso apoyado por métodos y herramientas.
 
-4. La ingeniería de software debe descansar sobre un esfuerzo de organización de calidad
-3. El proceso define un marco de trabajo para un conjunto de áreas clave, las cuales forman la base de control de gestión de proyectos de software y establece el contexto en el cual se aplica métodos técnicos, se produce resultados de trabajo, se establecen hitos, se asegura la calidad y se gestiona el cambio adecuadamente. 
-2. Métodos; actividades técnicas que se deben realizar para conseguir las tareas de ingeniería. Indican cómo construir técnicamente el software. Incluyen técnicas de modelado. 
-1. Herramientas; proporcionan el soporte automático o semiautomático para el proceso y para las técnicas.
+1. La ingeniería de software debe descansar sobre un esfuerzo de organización de calidad
+2. El proceso define un marco de trabajo para un conjunto de áreas clave, las cuales forman la base de control de gestión de proyectos de software y establece el contexto en el cual se aplica métodos técnicos, se produce resultados de trabajo, se establecen hitos, se asegura la calidad y se gestiona el cambio adecuadamente. 
+3. Métodos; actividades técnicas que se deben realizar para conseguir las tareas de ingeniería. Indican cómo construir técnicamente el software. Incluyen técnicas de modelado. 
+4. Herramientas; proporcionan el soporte automático o semiautomático para el proceso y para las técnicas.
 
 Por otra parte, es necesario saber lo que significa Software. 
 
