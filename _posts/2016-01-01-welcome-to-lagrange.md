@@ -5,6 +5,7 @@ author: "Ruth"
 ---
 ## ¿Qué es la ingeniería de Software?
 
+
 La ingeniería de Software es una disciplina que concierne a todos los aspectos de la producción de Software. Este incorpora el análisis precedente de la situación, el bosquejo del proyecto, el desarrollo del software, comprobar el su funcionamiento y poner en funcionamiento el sistema.
 La ingeniería de software es una tecnología de multicapa. Tiene el objetivo de lograr productos de calidad, mediante un proceso apoyado por métodos y herramientas.
 
