@@ -2,7 +2,7 @@
 title: "Ingeniería de Software"
 date: "2020-08-14"
 author: "Ruth"
-image: MiProyecto/assets/img/Images/imag4.jpg
+image: imag4.jpg
 ---
 ## ¿Qué es la ingeniería de Software?
 
