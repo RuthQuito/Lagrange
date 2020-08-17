@@ -1,7 +1,6 @@
 ---
 title: "Ingeniería de Software"
 date: "2020-08-14"
-image: imag4.jpg
 author: "Ruth"
 ---
 ## ¿Qué es la ingeniería de Software?
